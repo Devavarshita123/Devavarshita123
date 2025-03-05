@@ -7,7 +7,7 @@ I'm Devavarshita, a 2nd-year BTech student pursuing Computer Science and Enginee
 - I'm looking to collaborate on projects related to Data Structures and Algorithms.
 
 # Projects
-- [Project 1: This is going to be my first Project that is going to be built by me. My first thought is to gain more knowledge by starting my journey of building projects.Starting with Snake Game,which will build my knowledge regarding Arrays and Loops.](https://github.com/Devavarshita123/Snake-Game-using-DSA-in-java.git)
+projects:Currently, I am learning web Development and I am in the first stage of it of Learning HTML.
 
 
 # Skills
