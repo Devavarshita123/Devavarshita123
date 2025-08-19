@@ -1,26 +1,33 @@
-# Hello World!
-I'm Devavarshita, a 2nd-year BTech student pursuing Computer Science and Engineering at Velagapudi Ramakrishna Sidhartha Engineering College. I'm excited to share my projects, learnings, and experiences with the GitHub community.
+# Hello World! 👋
+I'm **Devavarshita**, a 3rd-year B.Tech student in Computer Science & Engineering at Velagapudi Ramakrishna Siddhartha Engineering College. I love building projects, learning new technologies, and sharing knowledge with the GitHub community.
 
-# About Me
-- I'm learning about Learning DSA.
-- I'm learning block chain fundamnetals to work on my project.
+---
 
-# Projects
-projects:Currently, I am learning full stack developmet and completed our front end.
+## About Me
+- Currently learning **Data Structures & Algorithms (DSA)**.
+- Enrolled in **IBM Full Stack Software Developer Program**.
+- Passionate about **full stack development**, **AI/ML applications**, and solving real-world problems with code.
 
+---
 
-# Skills
-- Programming languages: Java,C
-- Technologies: USing AI tools such as Chat GPT And gemini
-- Tools: VS Code 
+## Projects
+- Working on **full-stack projects**, including front-end applications built with **React**.
+- Upcoming projects will include **Node.js/Express back-end, Django/Flask services**, and **AI integrations**.
 
-# Connect with Me
-- LinkedIn: [www.linkedin.com/in/devavarshita-vatsavai-venkatasai-a07080297]
-- Email: [devavarshita2311@gmail.com]
+---
 
+## Skills
+- **Programming Languages:** Java, C, Python
+- **Technologies:** AI tools (ChatGPT, Gemini), Web Development (HTML, CSS, JavaScript, React)
+- **Tools:** VS Code, Jupyter Notebook, Git & GitHub
 
+---
 
-Thank you for visiting my GitHub profile!
+## Connect with Me
+- **LinkedIn:** [Devavarshita Vatsavai](https://www.linkedin.com/in/devavarshita-vatsavai-venkatasai-a07080297)
+- **Email:** devavarshita2311@gmail.com
 
-Best regards,
-Devavarshita
+---
+
+Thank you for visiting my GitHub profile! 🚀  
+Let's connect and collaborate on exciting projects.
