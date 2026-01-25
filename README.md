@@ -1,13 +1,13 @@
 # Hello World! 👋
 
-I'm **Devavarshita**, a passionate 3rd-year B.Tech student in Computer Science & Engineering at Velagapudi Ramakrishna Siddhartha Engineering College. I love building innovative projects, mastering new technologies, and contributing to the GitHub open-source community.
+I'm **Devavarshita**, a passionate 3rd-year B.Tech student in Computer Science & Engineering at Velagapudi Ramakrishna Siddhartha Engineering College. I love building innovative projects, solving and understanding patterns and mastering new technologies, and contributing to open source. 
 
 ---
 
 ## 🚀 About Me
 
 - Currently mastering **Data Structures & Algorithms (DSA)** for problem-solving excellence.
-- Enrolled in the **IBM Full Stack Software Developer Program** with hands-on experience in full-stack development and cloud technologies.
+- Completed the **IBM Full Stack Software Developer Program** with hands-on experience in full-stack development and cloud technologies.
 - Strong passion for developing scalable web applications, deploying cloud solutions, and integrating cutting-edge AI tools to solve real-world challenges.
 - Continuously improving my technical and professional skills to thrive in competitive environments like **Google** and **Amazon**.
 
