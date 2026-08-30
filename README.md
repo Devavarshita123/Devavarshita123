@@ -9,7 +9,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Devavarshita123-181717?style=for-the-badge&logo=github)](https://github.com/Devavarshita123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/devavarshita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devavarshita/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel)](https://devavarshita-portfolio.vercel.app/)
 
 </div>
