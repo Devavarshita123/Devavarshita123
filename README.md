@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Varshita!
 
-### 🚀 Computer Science Engineering Student | Software Developer | AI/ML Enthusiast
+### 🚀 Computer Science Engineering Student | Software Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Real-World+Software+Solutions;Exploring+AI+%26+Machine+Learning;Learning+System+Design+%26+Cloud;Turning+Ideas+into+Working+Products" />
 
