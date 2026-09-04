@@ -41,13 +41,13 @@ I enjoy working across **software development, backend engineering, AI/ML, cloud
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### ⚙️ Backend Development
@@ -59,13 +59,13 @@ I enjoy working across **software development, backend engineering, AI/ML, cloud
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,redis" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,vercel" />
 </p>
 
 ### 🤖 AI / ML
